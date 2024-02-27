@@ -8,4 +8,5 @@ function imprimirCantidadDePalabras(palabra, cantidad){
   }
 }
 
+console.log("##############");
 imprimirCantidadDePalabras("hola", 2);

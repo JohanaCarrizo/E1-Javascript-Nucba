@@ -11,4 +11,5 @@ function isMajorOrMinor(num1, num2) {
     
 }
 
+console.log("##############");
 isMajorOrMinor(10,5);

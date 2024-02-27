@@ -11,4 +11,5 @@ function multiForNumber(myArray, number) {
   }
 }
 
+console.log("##############");
 multiForNumber(myArray, 10);

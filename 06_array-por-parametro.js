@@ -8,4 +8,5 @@ function receiveArray(array) {
   }
 }
 
+console.log("##############");
 receiveArray(array);

@@ -8,4 +8,5 @@ function isMultiple(num){
   }
 }
 
+console.log("##############");
 isMultiple(25);

@@ -9,4 +9,5 @@ function isEvenOrOdd(num){
   }
 }
 
+console.log("##############");
 isEvenOrOdd(11);

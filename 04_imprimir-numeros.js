@@ -7,4 +7,5 @@ function imprimir(num){
   }
 }
 
+console.log("##############");
 imprimir(5);
